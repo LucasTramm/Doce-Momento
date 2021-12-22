@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+  width: 138px;
+  margin-top: 6px;
+  margin-left: 1.5rem;
+  margin-block: 10px;
+}
+
+#header {
+  top: 0;
+  left: 0;
+  display: flex;
+  background-color: #FFE5E9;
+  position: fixed;
+  width: 100%;  
+ 
+}
+
+.imgespaco img {
+  width: 144px;
+}
+
+
+body {
+  background-color: #FFE5E9;
+  font-family: 'Quando', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #000;    
+}
+
+ul {
+    list-style: none;
+    display: flex; 
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+ul .redes-sociais img {
+  width: 30px;
+}
+div .text {
+  margin-top: -136px;
+    margin-right: 50px;
+    border-radius: 4%;
+    padding:4.1rem 0rem;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+  .container1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+
+  #home .image  img {
+    width: 310px;
+    margin-top: -110px;
+}
+#home .title{
+  margin-top: -58px;
+}
+  
+
+  .section1 {
+    padding-top: 10rem;
+    padding-bottom: 3rem;
+    background-image: url(img/Group1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+  .section2 {
+    padding: 8rem 0;
+    background-image: url("img/image 12.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .section3{
+    padding: 8rem 0;
+    background-image: url(img/Group1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+  }
+
+  .container2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+  }
+
+  .contato1 {
+    width: 500px;
+    text-align: justify;
+    border-radius: 4%;
+    padding:3.1rem 1rem;
+    background: rgba(255, 255, 255, 0.6);
+  }
+
+  .contato2 {
+    height: 115px;
+    display: flex;
+    align-items: center;
+    border-radius: 4%;
+    padding:3.1rem 3rem;
+    background: rgba(255, 255, 255, 0.6);
+  }
+
+ 
+
+  .card {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+
+
+
+  
+
+  nav ul li {
+    text-align: center;
+  }
+
+  .title {
+      font-size: 22px;
+  }
+
+
+
+  #home .text {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    text-align: center;
+
+  }
+  
+  #home .text h1 {
+    margin-bottom: 1rem;
+  }
+  
+  #home .text p {  
+    margin-bottom: 2rem;
+    margin-top: 11px;
+    font-size: 16px;
+    margin-right: 159px;
+    margin-left: 156px;
+  }
+
+
+  footer {
+    padding: 1.5rem;
+    background-color: #FFE5E9;
+}
+
+footer img {
+  left: 40px;
+  display: flex;
+  position: absolute;
+  width: 6rem;
+  margin-top: 5px;
+}
+
+footer .marca p {
+  position: absolute;
+  display: flex;
+    left: 261px;
+    color: #000;
+    margin-bottom: 0.75rem;
+    
+}
+
+
+ 
